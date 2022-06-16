@@ -33,7 +33,7 @@ import (
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
 	// _ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
@@ -61,7 +61,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" // 百度一下
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"       // 查询b站用户信息
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_parse" // b站视频链接解析
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"    // 哀伤雪刃吧推书记录
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"    // 哀伤雪刃吧推书记录
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"   // 藏头诗
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"       // 选择困难症帮手
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua" // 说抽象话
@@ -80,7 +80,7 @@ import (
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"        // 原神抽卡
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"            // 制图
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"         // 搜索GitHub仓库
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"         // 搜索GitHub仓库
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"             // 炉石
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"        // 百人一首
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder" // 关键字搜图
@@ -107,7 +107,7 @@ import (
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"       // 以图搜图
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"          // 叔叔的AI二次元图片放大
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"          // 分数
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"          // 分数
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime" // 来份涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"  // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"  // 测定
