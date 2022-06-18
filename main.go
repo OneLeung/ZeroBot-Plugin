@@ -149,7 +149,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
@@ -167,7 +167,7 @@ import (
 	"github.com/sirupsen/logrus"
 	zero "github.com/wdvxdr1123/ZeroBot"
 	"github.com/wdvxdr1123/ZeroBot/driver"
-	//"github.com/wdvxdr1123/ZeroBot/message"
+	"github.com/wdvxdr1123/ZeroBot/message"
 	// -----------------------以上为内置依赖，勿动------------------------ //
 )
 
